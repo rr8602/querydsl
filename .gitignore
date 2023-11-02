@@ -6,5 +6,8 @@
 *.iml
 out
 gen
-build
 .gradle
+build
+
+# Querydsl
+/src/main/generated/
